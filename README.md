@@ -9,7 +9,7 @@
 - UX/UI: Figma, Design Responsivo, Acessibility
 - Ferramentas: Git, GitHub, VS Code
 
-## 📫 Contato
+## 📫 Contact
 
 - ([https://github.com/ochoshina/](https://github.com/ochoshina](https://github.com/ochoshina))
 - ([https://linkedin.com](https://www.linkedin.com/in/claudio-hoshina/))
