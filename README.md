@@ -11,6 +11,6 @@
 
 ## 📫 Contato
 
-- ([https://github.com/ochoshina/landing-page](https://github.com/ochoshina](https://github.com/ochoshina))
-- ([https://linkedin](https://www.linkedin.com/in/claudio-hoshina/))
-- ([github.com/ochoshina/instagram-clone](https://www.instagram.com/ochoshina/))
+- ([https://github.com/ochoshina/](https://github.com/ochoshina](https://github.com/ochoshina))
+- ([https://linkedin.com](https://www.linkedin.com/in/claudio-hoshina/))
+- ([https://instagram.com/ochoshina](https://www.instagram.com/ochoshina/))
